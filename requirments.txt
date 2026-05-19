@@ -3,3 +3,5 @@ uvicorn
 websockets
 python-dotenv
 aiokafka
+pydantic
+kafka-python-ng
